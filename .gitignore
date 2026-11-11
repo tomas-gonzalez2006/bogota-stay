@@ -1,0 +1,19 @@
+# Publicar solo los archivos necesarios para reproducir el análisis.
+/*
+!/.gitignore
+!/README.md
+!/Parcial_3.Rproj
+!/ejecutar_proyecto.R
+!/scripts/
+/scripts/*
+!/scripts/00_configuracion.R
+!/scripts/02_analisis.R
+!/datos_limpios/
+/datos_limpios/*
+!/datos_limpios/base_analitica_upz.rds
+!/datos_limpios/base_analitica_upz.csv
+!/datos_limpios/upz_agregado_analisis.rds
+!/docs/
+/docs/*
+!/docs/DICCIONARIO_DATOS.md
+!/docs/versiones_paquetes.csv
