@@ -2,9 +2,17 @@
 
 Autor: Tomás Alejandro González Forero. Análisis espacial, 2026-II.
 
+¿Qué relación existe entre las estrellas de Airbnb y el sentimiento de sus reseñas en las UPZ de Bogotá, controlando la densidad de anuncios? Este repositorio reproduce el análisis espacial desde las bases agregadas preparadas.
+
 ## Ejecución
 
-Guarda esta carpeta completa en tu computador. Con R y RStudio instalados, abre `Parcial_3.Rproj` y ejecuta:
+Descarga el repositorio con **Code → Download ZIP** y descomprímelo, o clónalo:
+
+```sh
+git clone https://github.com/tomas-gonzalez2006/bogota-stay.git
+```
+
+Con R y RStudio instalados, abre `Parcial_3.Rproj` y ejecuta:
 
 ```r
 source("ejecutar_proyecto.R", encoding = "UTF-8")

@@ -1,6 +1,6 @@
 # Diccionario de la base analítica
 
-Archivo principal: `datos_limpios/base_analitica_upz.rds`. Una fila por UPZ incluida en la muestra. CSV contiene las mismas columnas sin geometría; GPKG contiene la misma muestra espacial. `README.md` define pregunta, hipótesis y decisiones.
+Archivo principal: `datos_limpios/base_analitica_upz.rds`. Una fila por UPZ incluida en la muestra. El CSV contiene las mismas columnas sin geometría. El RDS `upz_agregado_analisis.rds` incluye las 112 UPZ para el fondo cartográfico; los modelos usan solo las 82 de la base analítica. El `README.md` explica la pregunta, ejecución y alcance.
 
 | Campo | Definición |
 |---|---|
